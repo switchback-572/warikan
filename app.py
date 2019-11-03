@@ -11,7 +11,7 @@ def say_hello(name):
 
 say_hello('Bob')
 say_hello('John')
-
+say_hello("Ken")
 
 def double(number):
     return number * 2
